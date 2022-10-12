@@ -9,4 +9,3 @@ To run this, install Python using the following instructions:
 - Press Command–Space to show the Spotlight, and type idle. Click on it to open. You should see a Python window pop up. This is the Python console, an - interactive program that lets you run simple Python code. Try typing in 2 + 3 and pressing Enter. You should see the number 5 printed! You can close this window or type in exit() and press Enter to quit. 
 - Now that Python is installed, you'll install PyCharm, a powerful tool for writing Python programs. Here is a helpful step-by-step breakdown of PyCharm installation: https://www.jetbrains.com/help/pycharm/installation-guide.html#f1b17fe3 
 - Afterwards, follow the instructions on this website (https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html#creating-simple-project) to create a project file. Then, copy this source code to the file to run it.
-
